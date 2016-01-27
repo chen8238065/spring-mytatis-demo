@@ -1095,7 +1095,7 @@
       <created>1453363964132</created>
       <option name="number" value="Default" />
       <updated>1453363964132</updated>
-      <workItem from="1453363965513" duration="38208000" />
+      <workItem from="1453363965513" duration="38518000" />
     </task>
     <servers />
   </component>
@@ -1132,10 +1132,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38208000" />
+    <option name="totallyTimeSpent" value="38518000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="47" y="24" width="1393" height="876" extended-state="6" />
+    <frame x="47" y="24" width="1393" height="876" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
